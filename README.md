@@ -2,13 +2,13 @@
 
 
 ## Contents
-1. [Commentries on Systems](#commentries on system)
-2. [Software Engineering](#software engineering)
+1. [Commentries on Systems](#commentries-on-systems)
+2. [Software Engineering](#software-engineering)
 3. [Networking](#networking)
-4. [Caching](#Caching)
-5. [Systems Tutorials](#systems tutorials)
-6. [Blogs I follow](#blogs i follow)
-7. [Company blogs](#company blogs)
+4. [Caching](#caching)
+5. [Systems Tutorials](#systems-tutorials)
+6. [Awesome blogs](#awesome-blogs)
+7. [Company Blogs](#company-blogs)
 
 ## Commentries on Systems
 - [Why messaging queues suck](https://www.programmableweb.com/news/why-messaging-queues-suck/analysis/2017/02/13)
@@ -45,11 +45,15 @@
 - [Haproxy and load balancing concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 - [How to monitor nginx](https://www.scalyr.com/community/guides/how-to-monitor-nginx-the-essential-guide)
 
-## Blogs I follow 
+## Awesome blogs 
 - [Julia Evans](https:jvns.ca)
 - [Jeremy Kun](https://jeremykun.com/)
 - [Antirez](http://antirez.com/latest/0)
 - [Hacker noon](https://hackernoon.com)
+
+## Company blogs 
+
+
 
 
 
