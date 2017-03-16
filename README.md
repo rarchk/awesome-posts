@@ -47,7 +47,7 @@ This is the collection of pearl articles, that I have read or I might have to re
 ## Awesome Confreences
 
 ## Weekly Readings
-- [Week1](week1.md)
+- [Week1](weekly/week1.md)
 
 
 
