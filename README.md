@@ -1,60 +1,53 @@
-# Awesome Systems Curated List  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Posts List  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is the collection of pearl articles, that I have read or I might have to read. It is not a pocket replacement, but it is my new approach to bookmark and philosophy to do every thing github way.  
 
 ## Contents
-1. [Commentries on Systems](#commentries-on-systems)
-2. [Software Engineering](#software-engineering)
-3. [Networking](#networking)
-4. [Caching](#caching)
-5. [Systems Tutorials](#systems-tutorials)
-6. [Awesome blogs](#awesome-blogs)
-7. [Company Blogs](#company-blogs)
+1. [Pearl Articles](#pearl-articles)
+2. [Things every sofwtware engineer should know about](#things-every-sofwtware-engineer-should-know-about)
+3. [A graphical guide to the systems](#a-graphical-guide-to-the-systems)
+4. [Awesome Blogs](#awesome-blogs)
+5. [Company Blogs](#company-blogs)
+6. [Notable Quotes](#notable-quotes)
+7. [Awesome Conferences](#awesome-conferences)
+8. [Weekly Readings](#weekly-readings)
 
-## Commentries on Systems
-- [Why messaging queues suck](https://www.programmableweb.com/news/why-messaging-queues-suck/analysis/2017/02/13)
-- [Verificaton Of a Distributed Systems by TLA+](https://medium.com/the-continuous-conference/the-verification-of-a-distributed-system-200b847b882#.o2t132214)
-- [Distributed Acid Transaction Performance](https://fauna.com/blog/distributed-acid-transaction-performance)
-- [Zen and Art of System Monitoring](https://www.scalyr.com/community/guides/zen-and-the-art-of-system-monitoring)
-- [Myth of Root Cause](http://blog.scalyr.com/2016/10/the-myth-of-the-root-cause/)
-- [Searching at 20GB/Sec](http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/)
-
-## Software Engineering
-- [Why companies adopt microservices](https://medium.com/microhq/why-companies-adopt-microservices-and-how-they-succeed-2ad32f39c65a#.q6fc02am5)
-- [Martin fowler microservices](https://martinfowler.com/articles/microservices.html)
-- [micor.mu](https://micro.mu/)
-- [faas](https://read.acloud.guru/evolution-of-business-logic-from-monoliths-through-microservices-to-functions-ff464b95a44d#.juk4bryj8)
-- [Challenges of Serverless](http://flomotlik.me/blog/challenges-of-serverless-in-2017/)
-- [Cap theorem in microservices](https://medium.com/kloia/distributed-computing-in-microservices-cap-theorem-253c16017a99#.kqh122k3r)
-- [Power of less code](https://medium.com/production-ready/the-power-of-less-code-56764e2cd534#.md2kdlyyc)
-
-## Networking 
+## Pearl Articles
 - [How linux networking stack send data](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
 - [How linux networking stack recieves data](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
+- [A short distributed systems course](https://github.com/aphyr/distsys-class)
+
+## Things every software engineer should know about
+- [What every software engineer should know about 12 factor app](https://12factor.net/)
+- **What every software engineer should know about unicode** [1](http://kunststube.net/encoding/) and [2](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) 
+- [What every software engineer should know about logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [What every software engineer should know about latency numbers](https://rarchk.github.io/systems/2017/01/26/latency-numbers-that-every-software-programmer-should-know/)
+- [What every computer scientist should know about floating point numbers](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+- [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
+- [What every programmer should know about security](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security)
+- [What every web devloper must know about url encoding](https://www.talisman.org/~erlkonig/misc/lunatech%5ewhat-every-webdev-must-know-about-url-encoding/)
+
+
+## A graphical guide to the systems
 - [A Simple description of how DNS works](https://howdns.works/)
-- [Digital Ocean's introduction to DNS Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
-
-## Caching
-- [Caching is hard, draw me a picture](http://bizcoder.com/caching-is-hard-draw-me-a-picture)
-- [Problems with caching](https://msol.io/blog/tech/youre-probably-wrong-about-caching/)
-- [Web Caching Basics](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies)
-- [Redis under the hood](https://making.pusher.com/redis-pubsub-under-the-hood/)  
-
-## Systems Tutorials
-- [Nginx Application Performance Optimzation](https://www.maxcdn.com/blog/nginx-application-performance-optimization/)
-- [Nginx Digital Ocean Tutorial](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
-- [Haproxy and load balancing concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
-- [How to monitor nginx](https://www.scalyr.com/community/guides/how-to-monitor-nginx-the-essential-guide)
 
 ## Awesome blogs 
 - [Julia Evans](https:jvns.ca)
 - [Jeremy Kun](https://jeremykun.com/)
 - [Antirez](http://antirez.com/latest/0)
 - [Hacker noon](https://hackernoon.com)
+- [Joel Spolsky](https://www.joelonsoftware.com/)
 
-## Company blogs 
+## Company blogs
+- [Klarna Engineering](https://engineering.klarna.com/)
 
 
+## Notable Quotes 
 
+## Awesome Confreences
+
+## Weekly Readings
+- [Week1](week1.md)
 
 
 
